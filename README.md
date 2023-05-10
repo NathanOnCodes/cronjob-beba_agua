@@ -21,4 +21,3 @@ em seguida
 cd cronjob-beba_agua
 go build -o lembrete-beber-agua cmd/main.go
 ```
-ps: voce precisa ter o go instalado preferivelmente na versão 1.20.
